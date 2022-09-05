@@ -1,5 +1,7 @@
 # ESPN API
 
+[Video Tutorial](https://youtu.be/Z8pPmpFcKMo)
+
 ## Objective
 Answering the fantasy football question: **does draft order matter in fantasy football**?
 
